@@ -1,23 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+
+import About from "./components/About/index";
+import Nav from "./components/Nav/index";
+import Portfolio from "./components/Portfolio/index";
+import ContactForm from "./components/Contact/index";
+import Experience from "./components/Experience/index";
+import "./App.css";
 
 function App() {
+  const [home, setHome] = useState("about");
+  const renderTab = () => {
+    switch (home) {
+      case "about":
+        return <About />;
+      case "portfolio":
+        return <Portfolio />;
+      case "experience":
+        return <Experience />;
+      case "contact":
+        return <ContactForm />;
+      default:
+        return null;
+    }
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Nav home={home} setHome={setHome}></Nav>
+      <main>{renderTab()}</main>
     </div>
   );
 }
