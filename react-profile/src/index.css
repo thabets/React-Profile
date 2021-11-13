@@ -51,3 +51,8 @@ code {
 li {
   list-style: none;
 }
+.center {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
