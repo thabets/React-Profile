@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/React-Profile/static/css/main.30765439.chunk.css",
+    "main.js": "/React-Profile/static/js/main.3fab43f6.chunk.js",
+    "main.js.map": "/React-Profile/static/js/main.3fab43f6.chunk.js.map",
+    "runtime-main.js": "/React-Profile/static/js/runtime-main.aaa6a29d.js",
+    "runtime-main.js.map": "/React-Profile/static/js/runtime-main.aaa6a29d.js.map",
+    "static/css/2.841d923d.chunk.css": "/React-Profile/static/css/2.841d923d.chunk.css",
+    "static/js/2.622a5080.chunk.js": "/React-Profile/static/js/2.622a5080.chunk.js",
+    "static/js/2.622a5080.chunk.js.map": "/React-Profile/static/js/2.622a5080.chunk.js.map",
+    "static/js/3.be71e016.chunk.js": "/React-Profile/static/js/3.be71e016.chunk.js",
+    "static/js/3.be71e016.chunk.js.map": "/React-Profile/static/js/3.be71e016.chunk.js.map",
+    "index.html": "/React-Profile/index.html",
+    "static/css/2.841d923d.chunk.css.map": "/React-Profile/static/css/2.841d923d.chunk.css.map",
+    "static/css/main.30765439.chunk.css.map": "/React-Profile/static/css/main.30765439.chunk.css.map",
+    "static/js/2.622a5080.chunk.js.LICENSE.txt": "/React-Profile/static/js/2.622a5080.chunk.js.LICENSE.txt",
+    "static/media/DB.3cb74edb.jpg": "/React-Profile/static/media/DB.3cb74edb.jpg",
+    "static/media/foodielove.b0b340c6.png": "/React-Profile/static/media/foodielove.b0b340c6.png",
+    "static/media/hsa.4a684be3.jpg": "/React-Profile/static/media/hsa.4a684be3.jpg",
+    "static/media/moolah.1ddc6289.png": "/React-Profile/static/media/moolah.1ddc6289.png",
+    "static/media/pic1.jpg": "/React-Profile/static/media/pic1.6615f83f.jpg",
+    "static/media/pic2.jpg": "/React-Profile/static/media/pic2.6e345857.jpg",
+    "static/media/pic3.jpg": "/React-Profile/static/media/pic3.8802893c.jpg",
+    "static/media/pic4.jpg": "/React-Profile/static/media/pic4.d352c7ee.jpg",
+    "static/media/pic5.jpg": "/React-Profile/static/media/pic5.285e7fe8.jpg",
+    "static/media/pic6.jpg": "/React-Profile/static/media/pic6.4205d657.jpg",
+    "static/media/pic7.jpg": "/React-Profile/static/media/pic7.e9842c56.jpg",
+    "static/media/pic8.jpg": "/React-Profile/static/media/pic8.2291f352.jpg",
+    "static/media/profilepic.198ea243.jpg": "/React-Profile/static/media/profilepic.198ea243.jpg",
+    "static/media/psu.d7c7c0e8.jpg": "/React-Profile/static/media/psu.d7c7c0e8.jpg",
+    "static/media/ttec.2006fc2d.png": "/React-Profile/static/media/ttec.2006fc2d.png",
+    "static/media/weathertracker.a4e62d21.PNG": "/React-Profile/static/media/weathertracker.a4e62d21.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaa6a29d.js",
+    "static/css/2.841d923d.chunk.css",
+    "static/js/2.622a5080.chunk.js",
+    "static/css/main.30765439.chunk.css",
+    "static/js/main.3fab43f6.chunk.js"
+  ]
+}
