@@ -3,13 +3,13 @@ import { FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
 
 function Footer(props) {
   return (
-    <footer className="flex-row px-2 py-2 hbackground">
+    <footer className="flex-row px-2 py-2  center">
       <a
         href="https://www.linkedin.com/in/sallam-thabet-93418518a/"
         target="blank"
         rel="noopener noreferrer"
       >
-        <li className="logo">
+        <li className="logo px-2">
           <FaLinkedin />
         </li>
       </a>
@@ -18,7 +18,7 @@ function Footer(props) {
         target="blank"
         rel="noopener noreferrer"
       >
-        <li className="logo">
+        <li className="logo px-2">
           <FaGithub />
         </li>
       </a>
@@ -27,10 +27,11 @@ function Footer(props) {
         target="blank"
         rel="noopener noreferrer"
       >
-        <li className="logo">
+        <li className="logo px-2">
           <FaInstagram />
         </li>
       </a>
+      <br></br>
       <p>Copyright © Sallam Thabet</p>
     </footer>
   );
