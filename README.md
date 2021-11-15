@@ -8,6 +8,8 @@
 
 ## [Description](#description)
 
+## [Screenshot](#screenshot)
+
 ## [Prerequisites for Use](#prerequisites)
 
 ## [Installation](#installing)
@@ -31,6 +33,10 @@ Sallam Thabet
 # Description
 
 Project name is `React Challenge: React Portfolio` This is my personal react profile demonstrating my different skills in React and other web development technologies.
+
+# Screenshot
+
+![Screenshot](/src/assets/personal/Screenshot.PNG)
 
 ## Prerequisites
 
