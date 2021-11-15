@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Table of Content
 
-## Available Scripts
+## [Project Name](#project-name)
 
-In the project directory, you can run:
+## [Project Creator](#project-creator)
 
-### `npm start`
+## [Description](#description)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## [Prerequisites for Use](#prerequisites)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## [Installation](#installing)
 
-### `npm test`
+## [Contributing To](#contributing-to)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## [Contributors](#contributors)
 
-### `npm run build`
+## [Contact](#contact)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## [license](#license)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Project name
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+React Challenge: React Portfolio
 
-### `npm run eject`
+# Project Creator
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Sallam Thabet
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Description
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Project name is `React Challenge: React Portfolio` This is my personal react profile demonstrating my different skills in React and other web development technologies.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Prerequisites
 
-## Learn More
+Before you begin, ensure you have met the following requirements:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- You have installed the latest version of Node.js
+- You have a Windows/Linux/Mac machine.
+- You have read guide/documentation_related_to_project>.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Installing
 
-### Code Splitting
+To install <React Challenge: React Portfolio>, follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+No
 
-### Analyzing the Bundle Size
+## Contributing to
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+To contribute to <React Challenge: React Portfolio>, follow these steps:
 
-### Making a Progressive Web App
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-### Advanced Configuration
+## Contributors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Thanks to the following people who have contributed to this project:
 
-### Deployment
+<None>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Contact
 
-### `npm run build` fails to minify
+If you want to contact me you can reach me at <sallam.thabet@gmail.com>.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+
+This project uses the following license: [MIT](https://opensource.org/licenses/MIT).
