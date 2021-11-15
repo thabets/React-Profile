@@ -4,9 +4,7 @@ import profilePicture from "../../assets/personal/profilepic.jpg";
 function About() {
   return (
     <section className="my-5">
-      <h1 id="about" className="center">
-        Who am I?
-      </h1>
+      
       <Container>
         <Row className="justify-content-md-center pd">
           <Col xs={12} sm={4} md={4}>

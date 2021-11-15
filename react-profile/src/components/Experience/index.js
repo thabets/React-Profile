@@ -26,12 +26,16 @@ function Experience() {
                   Keep track of your crypto portfolio with the latest crypto
                   news
                 </Card.Text>
+                <Row>
+                  <Col>
                 <a href="https://moolahwallet.herokuapp.com/">
                   <Button variant="dark">Website</Button>
-                </a>
+                </a></Col>
+                <Col>
                 <a href="https://github.com/TPhondeth/Moolah">
                   <Button variant="dark">Github Repo</Button>
-                </a>
+                </a></Col>
+                </Row>
               </Card.Body>
             </Card>
           </Col>
@@ -44,12 +48,16 @@ function Experience() {
                   Keep track of the latest weather in the area with the Weather
                   Tracker App
                 </Card.Text>
+                <Row>
+                  <Col>
                 <a href="https://thabets.github.io/Weatherman/">
                   <Button variant="dark">Website</Button>
-                </a>
+                </a></Col>
+                <Col>
                 <a href="https://github.com/thabets/Weatherman.git">
                   <Button variant="dark">Github Repo</Button>
-                </a>
+                </a></Col>
+                </Row>
               </Card.Body>
             </Card>
           </Col>
@@ -61,12 +69,16 @@ function Experience() {
                 <Card.Text>
                   Find recommendations to your favorite cuisine
                 </Card.Text>
+                <Row>
+                  <Col>
                 <a href="https://jasongrossman.github.io/team-2/">
                   <Button variant="dark">Website</Button>
-                </a>
+                </a></Col>
+                <Col>
                 <a href="https://github.com/jasongrossman/team-2">
                   <Button variant="dark">Github Repo</Button>
-                </a>
+                </a></Col>
+                </Row>
               </Card.Body>
             </Card>
           </Col>
