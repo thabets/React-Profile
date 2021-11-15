@@ -16,6 +16,7 @@ import Dbschenker from "../../assets/expimg/DB.jpg";
 import ttec from "../../assets/expimg/ttec.png";
 import hsa from "../../assets/expimg/hsa.jpg";
 import psu from "../../assets/expimg/psu.jpg";
+import resume from "../../assets/personal/SallamThabetResume.pdf";
 
 function Experience() {
   return (
@@ -187,7 +188,6 @@ function Experience() {
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--education"
-              date="August 2017"
               contentStyle={{ background: "#DEE2E6", color: "#495057" }}
               iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
               icon={
@@ -199,10 +199,7 @@ function Experience() {
               <br></br>
               <Button variant="light">
                 {
-                  <a
-                    href="../../assets/personal/SallamThabetResume.pdf"
-                    download
-                  >
+                  <a href={resume} download>
                     Resume
                   </a>
                 }{" "}
