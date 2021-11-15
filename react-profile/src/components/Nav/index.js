@@ -22,15 +22,36 @@ function Nav(props) {
             </a>
           </li>
           <li className="px-2 py-2">
-            <span onClick={() => setHome("portfolio")}> Portfolio </span>
+            <a
+              href="#portfolio"
+              className="hbackground"
+              onClick={() => setHome("portfolio")}
+            >
+              {" "}
+              Portfolio{" "}
+            </a>
           </li>
 
           <li className="px-2 py-2">
-            <span onClick={() => setHome("experience")}> Experience </span>
+            <a
+              href="#experience"
+              className="hbackground"
+              onClick={() => setHome("experience")}
+            >
+              {" "}
+              Experience{" "}
+            </a>
           </li>
 
           <li className={`px-2 py-2 `}>
-            <span onClick={() => setHome("contact")}> Contact </span>
+            <a
+              href="#contact"
+              className="hbackground"
+              onClick={() => setHome("contact")}
+            >
+              {" "}
+              Contact{" "}
+            </a>
           </li>
         </ul>
       </nav>

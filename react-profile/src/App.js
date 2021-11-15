@@ -5,6 +5,7 @@ import Nav from "./components/Nav/index";
 import Portfolio from "./components/Portfolio/index";
 import ContactForm from "./components/Contact/index";
 import Experience from "./components/Experience/index";
+import Footer from "./components/Footer/index";
 import "./App.css";
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
     <div>
       <Nav home={home} setHome={setHome}></Nav>
       <main>{renderTab()}</main>
+      <Footer home={home} setHome={setHome}></Footer>
     </div>
   );
 }

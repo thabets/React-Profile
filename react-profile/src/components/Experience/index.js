@@ -20,7 +20,7 @@ import psu from "../../assets/expimg/psu.jpg";
 function Experience() {
   return (
     <section className="my-5">
-      <h1 className="center" id="about">
+      <h1 className="center mar" id="about">
         Experience
       </h1>
 
