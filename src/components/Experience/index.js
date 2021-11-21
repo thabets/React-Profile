@@ -7,6 +7,7 @@ import Col from "react-bootstrap/Col";
 import FoodieLove from "../../assets/expimg/foodielove.png";
 import Moolah from "../../assets/expimg/moolah.png";
 import WeatherTracker from "../../assets/expimg/weathertracker.PNG";
+import NextStep from "../../assets/expimg/NextStep.png";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
@@ -44,6 +45,29 @@ function Experience() {
                   </Col>
                   <Col>
                     <a href="https://github.com/TPhondeth/Moolah">
+                      <Button variant="dark">Github Repo</Button>
+                    </a>
+                  </Col>
+                </Row>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col>
+            <Card style={{ width: "18rem" }}>
+              <Card.Img variant="top" src={NextStep} />
+              <Card.Body>
+                <Card.Title>Next Step</Card.Title>
+                <Card.Text>
+                  Educational Platform to help students further their education
+                </Card.Text>
+                <Row>
+                  <Col>
+                    <a href="https://next-setp-uoft-project3.herokuapp.com/">
+                      <Button variant="dark">Website</Button>
+                    </a>
+                  </Col>
+                  <Col>
+                    <a href="https://github.com/BootcampProject/next-step">
                       <Button variant="dark">Github Repo</Button>
                     </a>
                   </Col>
