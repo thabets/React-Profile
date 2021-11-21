@@ -43,7 +43,7 @@ function ContactForm() {
   return (
     <section>
       <h1 className="center mar">Contact me</h1>
-           <Form className="mar pd">
+      <Form className="mar pd">
         <Form.Group className="mb-3">
           <Form.Label>Name</Form.Label>
           <Form.Control
@@ -62,12 +62,12 @@ function ContactForm() {
             onBlur={handleChange}
           />
           <Form.Text className="text-muted">
-            We'll never share your email with anyone else.
+            I'll never share your email with anyone else.
           </Form.Text>
         </Form.Group>
 
         <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
-          <Form.Label>Example textarea</Form.Label>
+          <Form.Label>Please Insert Message Here</Form.Label>
           <Form.Control type="message" rows={3} onBlur={handleChange} />
         </Form.Group>
 
