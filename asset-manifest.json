@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/React-Profile/static/css/main.30765439.chunk.css",
-    "main.js": "/React-Profile/static/js/main.68d8ccfc.chunk.js",
-    "main.js.map": "/React-Profile/static/js/main.68d8ccfc.chunk.js.map",
+    "main.js": "/React-Profile/static/js/main.aa5ffe6d.chunk.js",
+    "main.js.map": "/React-Profile/static/js/main.aa5ffe6d.chunk.js.map",
     "runtime-main.js": "/React-Profile/static/js/runtime-main.aaa6a29d.js",
     "runtime-main.js.map": "/React-Profile/static/js/runtime-main.aaa6a29d.js.map",
     "static/css/2.841d923d.chunk.css": "/React-Profile/static/css/2.841d923d.chunk.css",
-    "static/js/2.622a5080.chunk.js": "/React-Profile/static/js/2.622a5080.chunk.js",
-    "static/js/2.622a5080.chunk.js.map": "/React-Profile/static/js/2.622a5080.chunk.js.map",
+    "static/js/2.110af5e0.chunk.js": "/React-Profile/static/js/2.110af5e0.chunk.js",
+    "static/js/2.110af5e0.chunk.js.map": "/React-Profile/static/js/2.110af5e0.chunk.js.map",
     "static/js/3.be71e016.chunk.js": "/React-Profile/static/js/3.be71e016.chunk.js",
     "static/js/3.be71e016.chunk.js.map": "/React-Profile/static/js/3.be71e016.chunk.js.map",
     "index.html": "/React-Profile/index.html",
     "static/css/2.841d923d.chunk.css.map": "/React-Profile/static/css/2.841d923d.chunk.css.map",
     "static/css/main.30765439.chunk.css.map": "/React-Profile/static/css/main.30765439.chunk.css.map",
-    "static/js/2.622a5080.chunk.js.LICENSE.txt": "/React-Profile/static/js/2.622a5080.chunk.js.LICENSE.txt",
+    "static/js/2.110af5e0.chunk.js.LICENSE.txt": "/React-Profile/static/js/2.110af5e0.chunk.js.LICENSE.txt",
     "static/media/DB.3cb74edb.jpg": "/React-Profile/static/media/DB.3cb74edb.jpg",
+    "static/media/NextStep.2b130a39.png": "/React-Profile/static/media/NextStep.2b130a39.png",
     "static/media/SallamThabetResume.dd347547.pdf": "/React-Profile/static/media/SallamThabetResume.dd347547.pdf",
     "static/media/foodielove.b0b340c6.png": "/React-Profile/static/media/foodielove.b0b340c6.png",
     "static/media/hsa.4a684be3.jpg": "/React-Profile/static/media/hsa.4a684be3.jpg",
@@ -35,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.aaa6a29d.js",
     "static/css/2.841d923d.chunk.css",
-    "static/js/2.622a5080.chunk.js",
+    "static/js/2.110af5e0.chunk.js",
     "static/css/main.30765439.chunk.css",
-    "static/js/main.68d8ccfc.chunk.js"
+    "static/js/main.aa5ffe6d.chunk.js"
   ]
 }
