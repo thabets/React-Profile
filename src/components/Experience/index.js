@@ -17,7 +17,7 @@ import Dbschenker from "../../assets/expimg/DB.jpg";
 import ttec from "../../assets/expimg/ttec.png";
 import hsa from "../../assets/expimg/hsa.jpg";
 import psu from "../../assets/expimg/psu.jpg";
-import resume from "../../assets/personal/SallamThabetResume.pdf";
+import resume from "../../assets/personal/Sallam-Thabet-Resume.pdf";
 
 function Experience() {
   return (
